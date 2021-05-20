@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.exe
+C:\Users\Николай\source\repos\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.deps.json
+C:\Users\Николай\source\repos\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.json
+C:\Users\Николай\source\repos\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.dev.json
+C:\Users\Николай\source\repos\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.dll
+C:\Users\Николай\source\repos\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.pdb
+C:\Users\Николай\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfo.cs
+C:\Users\Николай\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.dll
+C:\Users\Николай\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.pdb
+C:\Users\Николай\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.genruntimeconfig.cache

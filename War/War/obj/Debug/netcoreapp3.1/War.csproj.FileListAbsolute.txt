@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\War\War\bin\Debug\netcoreapp3.1\War.exe
+C:\Users\Николай\source\repos\War\War\bin\Debug\netcoreapp3.1\War.deps.json
+C:\Users\Николай\source\repos\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+C:\Users\Николай\source\repos\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Users\Николай\source\repos\War\War\bin\Debug\netcoreapp3.1\War.dll
+C:\Users\Николай\source\repos\War\War\bin\Debug\netcoreapp3.1\War.pdb
+C:\Users\Николай\source\repos\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Users\Николай\source\repos\War\War\obj\Debug\netcoreapp3.1\War.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\War\War\obj\Debug\netcoreapp3.1\War.dll
+C:\Users\Николай\source\repos\War\War\obj\Debug\netcoreapp3.1\War.pdb
+C:\Users\Николай\source\repos\War\War\obj\Debug\netcoreapp3.1\War.genruntimeconfig.cache

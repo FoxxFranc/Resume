@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Николай\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Николай\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Николай\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Николай\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Николай\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Николай\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Николай\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Николай\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Николай\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache

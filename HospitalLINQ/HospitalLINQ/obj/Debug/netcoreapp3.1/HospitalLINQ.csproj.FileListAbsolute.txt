@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\bin\Debug\netcoreapp3.1\HospitalLINQ.exe
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\bin\Debug\netcoreapp3.1\HospitalLINQ.deps.json
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\bin\Debug\netcoreapp3.1\HospitalLINQ.runtimeconfig.json
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\bin\Debug\netcoreapp3.1\HospitalLINQ.runtimeconfig.dev.json
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\bin\Debug\netcoreapp3.1\HospitalLINQ.dll
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\bin\Debug\netcoreapp3.1\HospitalLINQ.pdb
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\obj\Debug\netcoreapp3.1\HospitalLINQ.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\obj\Debug\netcoreapp3.1\HospitalLINQ.AssemblyInfo.cs
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\obj\Debug\netcoreapp3.1\HospitalLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\obj\Debug\netcoreapp3.1\HospitalLINQ.dll
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\obj\Debug\netcoreapp3.1\HospitalLINQ.pdb
+C:\Users\Николай\source\repos\HospitalLINQ\HospitalLINQ\obj\Debug\netcoreapp3.1\HospitalLINQ.genruntimeconfig.cache

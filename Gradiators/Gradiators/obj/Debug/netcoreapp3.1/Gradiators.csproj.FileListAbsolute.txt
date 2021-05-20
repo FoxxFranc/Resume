@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\Gradiators\Gradiators\bin\Debug\netcoreapp3.1\Gradiators.exe
+C:\Users\Николай\source\repos\Gradiators\Gradiators\bin\Debug\netcoreapp3.1\Gradiators.deps.json
+C:\Users\Николай\source\repos\Gradiators\Gradiators\bin\Debug\netcoreapp3.1\Gradiators.runtimeconfig.json
+C:\Users\Николай\source\repos\Gradiators\Gradiators\bin\Debug\netcoreapp3.1\Gradiators.runtimeconfig.dev.json
+C:\Users\Николай\source\repos\Gradiators\Gradiators\bin\Debug\netcoreapp3.1\Gradiators.dll
+C:\Users\Николай\source\repos\Gradiators\Gradiators\bin\Debug\netcoreapp3.1\Gradiators.pdb
+C:\Users\Николай\source\repos\Gradiators\Gradiators\obj\Debug\netcoreapp3.1\Gradiators.AssemblyInfoInputs.cache
+C:\Users\Николай\source\repos\Gradiators\Gradiators\obj\Debug\netcoreapp3.1\Gradiators.AssemblyInfo.cs
+C:\Users\Николай\source\repos\Gradiators\Gradiators\obj\Debug\netcoreapp3.1\Gradiators.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\Gradiators\Gradiators\obj\Debug\netcoreapp3.1\Gradiators.dll
+C:\Users\Николай\source\repos\Gradiators\Gradiators\obj\Debug\netcoreapp3.1\Gradiators.pdb
+C:\Users\Николай\source\repos\Gradiators\Gradiators\obj\Debug\netcoreapp3.1\Gradiators.genruntimeconfig.cache
